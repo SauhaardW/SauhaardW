@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif" width="100"/>
 </div>
-<p>I'm currently a software engineer at <strong><a href="https://www.nokia.com/">Nokia</a></strong> and formerly a developer at <strong><a href="https://www.samsung.com/">Samsung</a></strong> based in 🌁 Toronto. I am currently working on some side projects, reading a couple new books, and trying to conquer the world on Fantasy Premier League.</p>
+<p>I'm currently a software development engineer co-op at <strong><a href="https://www.amazon.com/">Amazon</a></strong> and formerly a developer at <strong><a href="https://www.nokia.com/">Nokia</a></strong> and <strong><a href="https://www.samsung.com/">Samsung</a></strong> based in 🌁 Toronto. I am currently working on some side projects, reading a couple new books, and trying to conquer the world on Fantasy Premier League.</p>
 
 [![Linkedin: sauhaard](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sauhaard/)](https://www.linkedin.com/in/sauhaard/)
 [![Personal Website](https://img.shields.io/badge/Personal%20Website-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white&link=http://sauhaard.com/)](http://sauhaard.com/)
